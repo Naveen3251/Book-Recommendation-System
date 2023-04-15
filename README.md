@@ -2,6 +2,9 @@
 # Dataset Link
 https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
 
+# books2.pkl file
+https://drive.google.com/file/d/14CniRwjbUBKByihz-7V-gSAQJPrxXcvd/view?pli=1
+
 # Outputs:
 
 # 1]Popularity based Top 50 Books
